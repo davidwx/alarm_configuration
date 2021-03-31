@@ -1,0 +1,6 @@
+{
+  "user" : "control",
+  "host" : "localhost.localdomain",
+  "description" : "01FPS10秒收到6次联锁信号",
+  "latching" : false
+}

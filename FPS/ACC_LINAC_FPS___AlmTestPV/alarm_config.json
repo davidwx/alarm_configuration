@@ -1,0 +1,6 @@
+{
+  "user" : "control",
+  "host" : "localhost.localdomain",
+  "description" : "报警声音测试",
+  "latching" : false
+}

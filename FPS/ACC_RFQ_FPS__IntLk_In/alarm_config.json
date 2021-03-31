@@ -1,0 +1,11 @@
+{
+  "user" : "control",
+  "host" : "localhost.localdomain",
+  "description" : "12RFQ高频联锁",
+  "latching" : false,
+  "delay" : 10,
+  "displays" : [ {
+    "title" : "FPS Disply",
+    "details" : "http://localhost:8080/webopi/w?opi=linac.opi.opi"
+  } ]
+}

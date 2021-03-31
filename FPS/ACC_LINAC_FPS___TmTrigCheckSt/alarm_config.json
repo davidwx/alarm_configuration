@@ -1,0 +1,10 @@
+{
+  "user" : "control",
+  "host" : "localhost.localdomain",
+  "description" : "09FPS标准定时信号丢失",
+  "latching" : false,
+  "displays" : [ {
+    "title" : "FPS Disply",
+    "details" : "http://localhost:8080/webopi/w?opi=linac.opi.opi"
+  } ]
+}

@@ -1,0 +1,8 @@
+{
+  "user" : "control",
+  "host" : "localhost.localdomain",
+  "guidance" : [ {
+    "title" : "guidance",
+    "details" : "FPS alarm"
+  } ]
+}

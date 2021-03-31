@@ -1,0 +1,6 @@
+{
+  "user" : "control",
+  "host" : "localhost.localdomain",
+  "description" : "01RT BLM 36 束损超限联锁",
+  "latching" : false
+}

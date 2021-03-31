@@ -1,0 +1,10 @@
+{
+  "user" : "control",
+  "host" : "localhost.localdomain",
+  "description" : "04DTL1漂移管水支路07温度报警",
+  "latching" : false,
+  "displays" : [ {
+    "title" : "DTL Disply",
+    "details" : "http://localhost:8080/webopi/w?opi=linac.opi.opi"
+  } ]
+}

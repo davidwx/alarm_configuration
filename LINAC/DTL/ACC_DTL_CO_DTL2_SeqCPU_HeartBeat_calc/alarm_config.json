@@ -1,0 +1,6 @@
+{
+  "user" : "control",
+  "host" : "localhost.localdomain",
+  "description" : "09DTL2腔体水冷PLC CPU异常报警",
+  "latching" : false
+}

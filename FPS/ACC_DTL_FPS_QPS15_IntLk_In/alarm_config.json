@@ -1,0 +1,10 @@
+{
+  "user" : "control",
+  "host" : "localhost.localdomain",
+  "description" : "07DTL电源 QPS15 联锁",
+  "latching" : false,
+  "displays" : [ {
+    "title" : "FPS Disply",
+    "details" : "http://localhost:8080/webopi/w?opi=linac.opi.opi"
+  } ]
+}

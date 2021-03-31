@@ -1,0 +1,11 @@
+{
+  "user" : "control",
+  "host" : "localhost.localdomain",
+  "description" : "02DTL 3 高频联锁",
+  "latching" : false,
+  "delay" : 5,
+  "displays" : [ {
+    "title" : "FPS Disply",
+    "details" : "http://localhost:8080/webopi/w?opi=linac.opi.opi"
+  } ]
+}

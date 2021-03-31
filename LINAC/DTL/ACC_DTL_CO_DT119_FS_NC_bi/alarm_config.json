@@ -1,0 +1,11 @@
+{
+  "user" : "control",
+  "host" : "localhost.localdomain",
+  "description" : "04DTL1漂移管外壳19水流量开关报警",
+  "enabled" : false,
+  "latching" : false,
+  "displays" : [ {
+    "title" : "DTL Disply",
+    "details" : "http://localhost:8080/webopi/w?opi=linac.opi.opi"
+  } ]
+}
